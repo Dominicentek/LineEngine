@@ -1,6 +1,7 @@
 # Line Engine
 
 A Java library for drawing lines.
+To download the library, there's the JAR in the repo.
 
 ## Examples
 ### Draw a simple line
