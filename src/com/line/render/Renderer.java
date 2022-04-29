@@ -113,5 +113,5 @@ public class Renderer {
     }
     public Vector getPosition() {
         return new Vector(x, y);
-    }
+    
 }
